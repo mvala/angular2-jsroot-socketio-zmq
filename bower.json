@@ -1,0 +1,10 @@
+{
+  "name": "angular2-jsroot-socketio-zmq",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "*",
+    "d3": "*",
+    "jsroot": "*"
+  }
+}
